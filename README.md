@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @woldeverythingincolo
+- 👋 Hi, I’m @woldemberg
 - 👀 I’m interested in ... AI 
 - 🌱 I’m currently learning ... Phython
 - 💞️ I’m looking to collaborate on ... Colorize:)
